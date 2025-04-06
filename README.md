@@ -1,5 +1,7 @@
 # 🎧 Spotify Dashboard
 
+🌐 [Live Demo](https://spotify-2024-038.streamlit.app/) – Try the app on Streamlit Cloud!
+
 An interactive web dashboard built with **Streamlit** and **Plotly**, designed to explore and visualize Spotify's most popular tracks and artists. This project scrapes and analyzes track metadata, genres, album covers, and popularity metrics from Spotify's API to provide dynamic visual insights.
 
 ---
@@ -47,3 +49,5 @@ An interactive web dashboard built with **Streamlit** and **Plotly**, designed t
    ```bash
    git clone https://github.com/your-username/spotify-dashboard.git
    cd spotify-dashboard
+
+## Check it out & Try it Yourself https://spotify-2024-038.streamlit.app/
