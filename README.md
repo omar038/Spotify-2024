@@ -50,4 +50,4 @@ An interactive web dashboard built with **Streamlit** and **Plotly**, designed t
    git clone https://github.com/your-username/spotify-dashboard.git
    cd spotify-dashboard
 ## Copyright ©️
-[Original Dataset]([https://spotify-2024-038.streamlit.app/](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024))
+[Original Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024)
