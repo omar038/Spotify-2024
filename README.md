@@ -13,6 +13,12 @@ An interactive web dashboard built with **Streamlit** and **Plotly**, designed t
 - 🧠 **Data Enrichment**: Automated genre and album cover scraping using the Spotify API.
 
 ---
+## Tracks Dashboard
+![Dashboard](https://github.com/omar038/Spotify-2024/blob/main/Gif/Tracks.gif)
+
+## Artists Dashboard
+![Dashboard](https://github.com/omar038/Spotify-2024/blob/main/Gif/Artists.gif)
+
 
 ## 🛠 Tech Stack
 
