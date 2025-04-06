@@ -1,0 +1,73 @@
+.st-emotion-cache-79elbk {
+    position: absolute;
+    top: 550px;
+}
+
+
+/* This is body to change the background color */
+.st-emotion-cache-1r4qj8v {
+    position: absolute;
+    background: #FCFFF6;
+    color: rgb(49, 51, 63);
+    inset: 0px;
+    color-scheme: light;
+    overflow: hidden;
+}
+/* This is Sidebar to change the background color */
+.st-emotion-cache-6qob1r {
+    background-color: #FFFFFF;
+
+}
+/* This is Sidebar Title color */
+.st-emotion-cache-3gzemd {
+    color: #203602;
+}
+
+
+/* This is For Cards */
+div.st-emotion-cache-0.ehvl34q0{
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+/* This is For Cards Text */
+.st-emotion-cache-1wivap2 {
+    color: darkgreen;
+    font-family: Arial, sans-serif;
+}
+.st-emotion-cache-bm2z3a {
+color: #ffffff;
+}
+
+
+/* This is For Cards Title */
+.st-emotion-cache-15jn9ue {
+    font-weight: 100;
+    grid-template-columns: auto 0fr;
+}
+/* This is For Cards Text */
+.st-emotion-cache-1wivap2 > div > p {
+    text-overflow: ellipsis;
+    color: #10692f;
+    overflow: hidden;
+    text-align: center;   
+}
+
+/* This is For song details */
+.st-emotion-cache-1104ytp {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1rem;
+    margin-bottom: -1rem;
+    color: #105610;
+}
+div.stTextInput.st-emotion-cache-79elbk.e1o1zy6o0{
+    position: relative;
+    top: 0px;
+}
+
